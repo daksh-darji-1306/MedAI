@@ -1,0 +1,28 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyTorch models
+*.pth
+*.pt
+*.cpkt
+*.ckpt
+
+# Datasets
+data/
+datasets/
+
+# Output Images
+gradcam_result.jpg
+confusion_matrix.png
+
+# IDEs
+.vscode/
+.idea/
+.spyderproject/
+
+# Streamlit
+.streamlit/
